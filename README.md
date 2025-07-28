@@ -2,6 +2,8 @@
 
 I'm a software engineer who enjoys solving complex problems by keeping things simple. I believe that good software is usually the result of clear thinking, straightforward solutions, and avoiding unnecessary complexity.
 
+Currently advocating for more thoughtful architectural decisions, particularly around microservices. I believe microservices can be a great tool, but when overused or introduced too early, they often add unnecessary complexity that hurts developer experience and team productivity. My mission is to challenge the "microservices by default" mindset and promote architectural choices that prioritize simplicity, clarity, and speed of delivery.
+
 <!--
 **ellisv/ellisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
